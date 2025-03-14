@@ -2,7 +2,6 @@
 - 👀 I am interested in WordPress themes.
 - 🌱 I’m currently learning。
 - 💞️ I’m looking to collaborate on。
-- 📫 How to reach me ：　[mail](kurogi.blog1@gmail.com)
 - 😄 Pronouns: For the start of "github"
 - ⚡ Fun fact: I'm learning things that interest me.
 <!-- HTMLとCSSの導入 -->
